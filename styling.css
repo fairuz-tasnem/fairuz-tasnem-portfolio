@@ -93,7 +93,7 @@
         	}
 
         	.intro-title {
-            	font-size: clamp(3rem, 3.5vw, 5rem);
+            	font-size: clamp(3rem, 3vw, 5rem);
             	font-weight: bold;
             	line-height: 0.9;
             	margin-bottom: 1rem;
