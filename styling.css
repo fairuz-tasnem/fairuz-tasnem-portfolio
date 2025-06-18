@@ -70,6 +70,7 @@
 
         
         	.intro {
+		padding-top: 80px;	
             	min-height: 100vh;
             	background: linear-gradient(135deg, #B7677F 0%, #8B4A6B 50%, #5D2A3A 100%);
             	display: flex;
@@ -121,8 +122,8 @@
         
         	.intro-image {
             	position: relative;
-            	width: 350px;
-            	height: 400px;
+            	width: 400px;
+            	height: 500px;
             	margin: 0 auto;
             	perspective: 1000px;
         	}
