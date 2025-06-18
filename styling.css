@@ -68,7 +68,7 @@
             	transform: translateY(-2px);
         	}
 
-        /* Hero Section */
+        
         	.intro {
             	min-height: 100vh;
             	background: linear-gradient(135deg, #B7677F 0%, #8B4A6B 50%, #5D2A3A 100%);
@@ -93,7 +93,7 @@
         	}
 
         	.intro-title {
-            	font-size: clamp(3rem, 3.84vw, 5rem);
+            	font-size: clamp(3rem, 3.5vw, 5rem);
             	font-weight: bold;
             	line-height: 0.9;
             	margin-bottom: 1rem;
@@ -118,7 +118,7 @@
         	}
 
         
-        /* Image Container with Rotation Effect */
+        
         	.intro-image {
             	position: relative;
             	width: 400px;
@@ -179,7 +179,7 @@
             	60% { transform: translateX(-50%) translateY(-5px); }
         	}
 
-        /* About Section */
+        
         	.about {
             	padding: 5rem 2rem;
             	background: #FAF0E6;
@@ -301,7 +301,7 @@
             	line-height: 1.6;
         	}
 
-        	/* Skills Section */
+        	
         	.skills {
             	padding: 5rem 2rem;
             	background: #D4849A;
